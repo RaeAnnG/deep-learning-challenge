@@ -64,7 +64,7 @@ Alphabet Soup Analysis.pptx
 I received help from the following
 - Instructor - Rufel Estrada
 - TA - Manuel Eduardo Sotelo Cervante
-- Tutor - Geronimo Perez
+- Tutors - Geronimo Perez and Christopher Barnard
 
 
 
